@@ -1,4 +1,4 @@
-# Email-Process-Analysis
+# Automations Business Continuity Plan
 This was an ongoing effort to create a Business Continuity plan for an organization regarding their automations. The actual automation names have been hidden for anonymity purposes. 
 
 The HTML file is a Jupyter notebook; download it to see the Python involved in this project.

@@ -1,6 +1,9 @@
 # Email-Process-Analysis
 This was an ongoing effort to create a Business Continuity plan for an organization regarding their automations. The actual automation names have been hidden for anonymity purposes. 
 
+The HTML file is a Jupyter notebook; download it to see the Python involved in this project.
+
+
 This project was split into two major components:
 
 1. Retrieve the automation data from the local database. Existing security controls within the organization prevented me from retrieving data directly from the Jupyter notebook, therefore, this required reading the data from an SQL query I created to downloading it and subsequently loading the data in the Jupyter Notebook.
